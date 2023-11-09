@@ -282,6 +282,10 @@ public enum ExperienceItem
 	FLAX(ItemID.FLAX, Skill.CRAFTING, "Misc"),
 	MOLTEN_GLASS(ItemID.MOLTEN_GLASS, Skill.CRAFTING, "Misc"),
 	BATTLESTAFF(ItemID.BATTLESTAFF, Skill.CRAFTING, "Misc"),
+	FIRE_ORB(ItemID.FIRE_ORB, Skill.CRAFTING, "Misc"),
+	WATER_ORB(ItemID.WATER_ORB, Skill.CRAFTING, "Misc"),
+	EARTH_ORB(ItemID.EARTH_ORB, Skill.CRAFTING, "Misc"),
+	AIR_ORB(ItemID.AIR_ORB, Skill.CRAFTING, "Misc"),
 	GOLD_BAR(ItemID.GOLD_BAR, Skill.CRAFTING, "Misc"),
 	// Leather
 	COW_HIDE(ItemID.COWHIDE, Skill.CRAFTING, "Leather"),
